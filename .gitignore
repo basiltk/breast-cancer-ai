@@ -1,0 +1,12 @@
+data/raw/*
+data/processed/*
+analyses/*
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+*.conda
+*.yml
+work/
+.DS_Store
+Thumbs.db
