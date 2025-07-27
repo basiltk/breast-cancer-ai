@@ -13,11 +13,13 @@ Entire project will be completed in 6 seperate steps/tasks.
 <br>
 
 <ul>
-Objective: Predict early-stage breast cancer risk using genomics, transcriptomics, and methylation profiles.
+<li>
+Objective: Predict early-stage breast cancer risk using genomics, transcriptomics, and methylation profiles.</li>
 </ul><br><ul>
-Approach: Compare classical models (logistic regression) with ensemble models (RF, XGBoost) and DL architectures (autoencoders, multimodal DNNs).
+<li>
+Approach: Compare classical models (logistic regression) with ensemble models (RF, XGBoost) and DL architectures (autoencoders, multimodal DNNs).</li>
 </ul><br>
-<ul>
-Deliverable: Publication on "Multi-omics AI model for early breast cancer risk prediction."
+<ul><li>
+Deliverable: Publication on "Multi-omics AI model for early breast cancer risk prediction." </li>
 </ul>
 <br>
