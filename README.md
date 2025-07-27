@@ -1,4 +1,4 @@
-# breast-cancer-ai
+# Breast-Cancer-AI
 <br><br>
 
 <h1>
