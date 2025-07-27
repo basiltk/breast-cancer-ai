@@ -1,15 +1,15 @@
 # Breast-Cancer-AI
 <br><br>
 
-<h1>
+<h2>
  Overall Project Aim:
-</h1>
+</h2>
 <p>
 To develop interpretable and population-aware AI/ML models using multi-omics data for early risk prediction, subtype stratification, and biomarker discovery in breast cancer.
 Entire project will be completed in 6 seperate steps/tasks. 
 </p>
 
-<h2> Task 1: Risk Prediction Using AI on Multi-Omics Data </h2>
+<h3> Task 1: Risk Prediction Using AI on Multi-Omics Data </h3>
 <br>
 
 <ul>
