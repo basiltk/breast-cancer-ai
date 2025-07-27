@@ -17,7 +17,7 @@ Objective: Predict early-stage breast cancer risk using genomics, transcriptomic
 </ul><br><ul>
 Approach: Compare classical models (logistic regression) with ensemble models (RF, XGBoost) and DL architectures (autoencoders, multimodal DNNs).
 </ul><br>
-
+<br>
 <ul>
 Deliverable: Publication on "Multi-omics AI model for early breast cancer risk prediction."
 </ul>
